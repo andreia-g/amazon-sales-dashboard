@@ -65,12 +65,7 @@ Amazon_sales_dashboard /
 ├── powerbi/ 
 │   ├── Amazon_Sales_Dashboard.pbix 
 │   ├── DAX_README.md
-│   ├── SETUP_GUIDE.md
 │   └── screenshots/ 
-├── web/
-│   ├── index.html
-│   ├── styles.css
-│   └── app.js 
 └── assets/
 ```
 
