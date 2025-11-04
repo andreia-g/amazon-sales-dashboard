@@ -128,9 +128,6 @@ Amazon_sales_dashboard /
 **Weekend (3)**
 - Weekend Revenue, Weekday Revenue, Weekend Share %
 
-**Time Intelligence (3)**
-- Revenue This Month, Revenue Last Month, MoM Revenue %
-
 **Product/Category (4)**
 - Revenue by Category, Orders by Size Category, Top SKU Revenue, Unit Price (Avg)
 
@@ -216,7 +213,7 @@ Amazon_sales_dashboard /
 - **Geographic Trends:** Discover which states and cities drive the most sales volume.
 - **Order Status Patterns:** Analyze cancellation rates and identify potential issues in the order pipeline.
 - **B2B vs B2C:** Compare business customer behavior vs individual consumers.
-- **Promotion Effectiveness:** Evaluate impact of promotional campaigns on sales.
+- **Promotion Effectiveness:** Evaluate the impact of promotional campaigns on sales.
 
 ### Business Implications
 
