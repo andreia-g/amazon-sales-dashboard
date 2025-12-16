@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Preview](powerbi/screenshots/02_overview.png)
+
 # Amazon Sales Dashboard: E-commerce Analytics & Insights
 
 ## 📊 Project Overview
